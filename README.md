@@ -10,6 +10,11 @@ A more complete instructable is in the works.
 
 ## Installation
 
+## Libraries
+
+Uses Adafruit Neopixel (version 1.3.5), and SoftwareSerial libraries (unknown version).  
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+
 ## Things To Do
 
 ## Usage
@@ -34,7 +39,6 @@ https://www.paypal.me/KD8BXP
 
 https://www.youtube.com/channel/UCP6Vh4hfyJF288MTaRAF36w  
 https://kd8bxp.blogspot.com/  
-
 
 ## Credits
 

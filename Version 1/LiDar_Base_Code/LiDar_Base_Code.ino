@@ -36,7 +36,7 @@ https://kd8bxp.blogspot.com/
  */
 
 #include <Wire.h>
-#include <SoftwareSerial.h>
+#include "src/SoftwareSerial/SoftwareSerial.h"
 
 SoftwareSerial mySerial(3, 2);
 
@@ -163,4 +163,3 @@ void sendGoCmd(int distance, int strength) {
   Wire.write(cmd);
   Wire.endTransmission();
 }
-

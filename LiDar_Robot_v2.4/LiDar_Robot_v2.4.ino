@@ -33,8 +33,8 @@ https://kd8bxp.blogspot.com/
  * 
  */
 
-#include <SoftwareSerial.h>
-#include <Adafruit_NeoPixel.h>
+#include "src/SoftwareSerial/SoftwareSerial.h"
+#include "src/Adafruit_NeoPixel/Adafruit_NeoPixel.h"
 
 #define left1 12
 #define left2 11 //pwm
@@ -256,4 +256,3 @@ void setPixels(int i) {
 strip.show();
      
 }
-
