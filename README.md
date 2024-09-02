@@ -1,3 +1,7 @@
+# September 2, 2024 - Archiving code
+
+Robot has been taken apart, this ended up being only part sucessful, but mosted ended up failing  
+
 # 100m LiDar Robot
 
 The goal of this project was to replace a ultrasonic with a electric tape measurement module. The module used can be found here:  
